@@ -1,7 +1,15 @@
 "# YazilimTasarim" 
 
-<<<<<<< HEAD
-<h2> Yazilim Tasarim: </h2>
-=======
-<h2>Yazilim Tasarim</h2>
->>>>>>> cf4ed3dc02ca3bd6f576d2785a8ac9e0d2620024
+
+<h2> Yazilim Tasarim </h2>
+
+
+<h2> Fotoğraf </h2>
+
+<p>https://github.com/Ahmedsall1/YazilimTasarim/blob/main/YAZILIM%20TASARIM(JAVA).png</p>
+
+<h2> pdf </h2>
+
+<p>https://github.com/Ahmedsall1/YazilimTasarim/blob/main/YAZILIM%20TASARIM(JAVA).pdf</p>
+
+
