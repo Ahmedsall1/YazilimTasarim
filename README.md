@@ -1,7 +1,7 @@
 "# YazilimTasarim" 
 
 
-<h2> Yazilim Tasarim </h2>
+<h2> Kullanılan Uygulama : Microsoft Whiteboard </h2>
 
 
 <h2> Fotoğraf </h2>
