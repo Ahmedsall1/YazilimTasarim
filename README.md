@@ -1,7 +1,15 @@
 "# YazilimTasarim" 
 
-<<<<<<< HEAD
-<h2> Yazilim Tasarim: </h2>
-=======
-<h2>Yazilim Tasarim</h2>
->>>>>>> cf4ed3dc02ca3bd6f576d2785a8ac9e0d2620024
+
+<h2> Kullanılan Uygulama : Microsoft Whiteboard </h2>
+
+
+<h2><a href="https://github.com/Ahmedsall1/YazilimTasarim/blob/main/YAZILIM%20TASARIM(JAVA).png"> Fotoğraf</a> </h2>
+
+
+
+<h2><a href="https://github.com/Ahmedsall1/YazilimTasarim/blob/main/YAZILIM%20TASARIM(JAVA).pdf"> pdf</a> </h2>
+
+
+
+
